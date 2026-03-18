@@ -28,10 +28,7 @@
 
 | Home Screen | Trip Planner | Expense Tracker |
 | :---: | :---: | :---: |
-| ![WhatsApp Image 2026-03-09 at 1 16 44 PM](https://github.com/user-attachments/assets/3f312db8-fae6-472b-8299-fbbb4d3dee2e)
- | ![WhatsApp Image 2026-03-07 at 6 30 50 PM](https://github.com/user-attachments/assets/45c9a1fc-be20-467e-bf45-6cd2128f7d45)
- |![WhatsApp Image 2026-03-07 at 6 30 49 PM](https://github.com/user-attachments/assets/4292c931-dfc4-4936-915e-c64383f6f4db)
-|
+| ![WhatsApp Image 2026-03-09 at 1 16 44 PM](https://github.com/user-attachments/assets/3f312db8-fae6-472b-8299-fbbb4d3dee2e)| ![WhatsApp Image 2026-03-07 at 6 30 50 PM](https://github.com/user-attachments/assets/45c9a1fc-be20-467e-bf45-6cd2128f7d45)|![WhatsApp Image 2026-03-07 at 6 30 49 PM](https://github.com/user-attachments/assets/4292c931-dfc4-4936-915e-c64383f6f4db)|
 
 ---
 
