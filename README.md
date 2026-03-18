@@ -54,10 +54,18 @@ VidTrip was built using modern Android development best practices, adhering stri
 
 ## 👨‍💻 Meet the Developer
 
-**Onkar Mantri** - Lead Developer
+**Onkar Mantri** - Lead Developer & Project Manager
+**Saurabh Gaikwad** - Frontend Developer & UI/UX Specialist
+**Vaibhav Chavhan** - Database Specialist
 
-I am a software developer currently in my 6th semester of Computer Engineering, passionate about building robust, scalable mobile applications. 
 
-* **Connect with me on LinkedIn:** *(Add your LinkedIn link here)*
+We are a software developers currently in my 6th semester of Computer Engineering, passionate about building robust, scalable mobile applications. 
+
+* **Connect with me on LinkedIn:** *(www.linkedin.com/in/onkar-mantri-3173b93b8)*
 * **Email:** *(mantrionkar22@gmail.com)*
-*
+  
+* **Connect with me on LinkedIn:** *(www.linkedin.com/in/saurabh-gaikwad-a348ba377)*
+* **Email:** *(gaikwadsaurabh276@gmail.com)*
+  
+* * **Connect with me on LinkedIn:** *(www.linkedin.com/in/vaibhav-chavhan-0a867a371)*
+* **Email:** *(chavhanvaibhav87@gmail.com)*
